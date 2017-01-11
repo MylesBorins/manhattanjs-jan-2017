@@ -1,0 +1,7 @@
+{
+  "name": "presentation-the-phish-from-vermont",
+  "version": "1.0.0",
+  "dependencies": {
+    "prism": "gh-pages"
+  }
+}
